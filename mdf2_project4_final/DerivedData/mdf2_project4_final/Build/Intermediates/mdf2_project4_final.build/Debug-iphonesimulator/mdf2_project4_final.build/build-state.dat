@@ -1,0 +1,1025 @@
+Tmdf2_project4_final
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Info.plist" mdf2_project4_final/mdf2_project4_final-Info.plist
+cProcessPCH "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/PrecompiledHeaders/mdf2_project4_final-Prefix-gsaqhwpkwsvhjmeztlmmagaznxuv/mdf2_project4_final-Prefix.pch.pth" mdf2_project4_final/mdf2_project4_final-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/AppDelegate.o "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/MovieTableCell.o "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/MovieTableCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/ViewController.o "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/MovieData.o "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/MovieData.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/main.o "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/DetailViewController.o "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/DetailViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/mdf2_project4_final" normal i386
+cGenerateDSYMFile "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app.dSYM" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/mdf2_project4_final"
+cCpResource mdf2_project4_final/movies DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/movies
+cCpResource mdf2_project4_final/images DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/images
+cCpResource mdf2_project4_final/Default.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Default.png
+cCompileStoryboard "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/en.lproj/MainStoryboard.storyboard"
+cCopyStringsFile "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/en.lproj/InfoPlist.strings" mdf2_project4_final/en.lproj/InfoPlist.strings
+cCpResource mdf2_project4_final/Default@2x.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Default@2x.png
+cCpResource mdf2_project4_final/Default-568h@2x.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Default-568h@2x.png
+cCopyPlistFile "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/movies.plist" mdf2_project4_final/../movies.plist
+cTouch "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000051BF579E0000000000000110
+t1371494302
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005106F2E40000000000228FE0
+t1359409892
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005106F2E600000000003DDFA0
+t1359409894
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005106F2E600000000000015F7
+t1359409894
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000005106F2E800000000002DBA50
+t1359409896
+s2996816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000005106F2EB0000000000000E8D
+t1359409899
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005106F2ED0000000000AB6230
+t1359409901
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c000000005106F3090000000000001B73
+t1359409929
+s7027
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/PrecompiledHeaders/mdf2_project4_final-Prefix-fmfvbuysvxusbigmdsythsqkvoup/mdf2_project4_final-Prefix.pch.pth
+t1359417412
+s4678964
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/PrecompiledHeaders/mdf2_project4_final-Prefix-gsaqhwpkwsvhjmeztlmmagaznxuv/mdf2_project4_final-Prefix.pch.pth
+t2
+s0
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/AppDelegate.o
+t1359661051
+s89200
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/DetailViewController.o
+t1359657223
+s91428
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/MovieData.o
+t1359576664
+s8920
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/MovieTableCell.o
+t1359576664
+s74040
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/ViewController.o
+t1359660729
+s121520
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/main.o
+t1359657223
+s3392
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/mdf2_project4_final.LinkFileList
+c00000000510710440000000000000564
+t1359417412
+s1380
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app
+t1361166141
+s1054
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app.dSYM
+t1359661052
+s102
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Argo.m4v
+t1359418256
+s58205160
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Argo.png
+t1359655274
+s10653
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/CA.png
+t1359655274
+s12982
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Default-568h@2x.png
+t1359417931
+s18594
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Default.png
+t1359417931
+s6540
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Default@2x.png
+t1359417931
+s16107
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Info.plist
+t1359662920
+s997
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/OnkwehonweTranslatorJune24_2012.m4v
+t1359418100
+s17571308
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/OnkwehonweTranslatorJune24_2012.mp4
+t1359572238
+s8678932
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/PkgInfo
+t1359662920
+s8
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/avengers.jpg
+t1359418100
+s6354
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/avengers.png
+t1359655274
+s6354
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/captain-america.jpg
+t1359418100
+s7929
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/captain-america.png
+t1359655274
+s7929
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/cinemarc.png
+t1359655274
+s10897
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/cineplex96x96.png
+t1359655274
+s14096
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/en.lproj/InfoPlist.strings
+t1359417931
+s42
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/en.lproj/MainStoryboard.storyboardc
+t1361166141
+s306
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/images
+t1359655684
+s578
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/imax.png
+t1359655274
+s5113
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/mdf2_project4_final
+t1359661051
+s68056
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/movies
+t1359655684
+s170
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/movies.plist
+t1359660859
+s786
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/play.png
+t1359655274
+s193
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/rock%20on%20beach.jpg
+t1359655274
+s791697
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/skyfall.png
+t1359655274
+s6530
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stargate.jpg
+t1359418100
+s10175
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stargate.png
+t1359655274
+s10175
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stop.png
+t1359655274
+s176
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/trailer1.mp4
+t1359655274
+s8678932
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/../movies.plist
+c00000000510AC73A000000000000175A
+t1359660858
+s5978
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/AppDelegate.h
+c00000000510AB89B0000000000000276
+t1359657115
+s630
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/AppDelegate.m
+c00000000510AC7FB000000000000086C
+t1359661051
+s2156
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/Argo.m4v
+c0000000050A5018600000000037823E8
+t1352991110
+s58205160
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/Argo.png
+c0000000050A50186000000000000299D
+t1352991110
+s10653
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/CA.png
+c0000000050A5018600000000000032B6
+t1352991110
+s12982
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/DetailViewController.h
+c0000000051097D190000000000000309
+t1359576345
+s777
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/DetailViewController.m
+c00000000510988850000000000000EE8
+t1359579269
+s3816
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/MovieData.h
+c0000000051097CDB0000000000000147
+t1359576283
+s327
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/MovieData.m
+c0000000051097CC60000000000000239
+t1359576262
+s569
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/MovieTableCell.h
+c00000000510963AE00000000000001DC
+t1359569838
+s476
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/MovieTableCell.m
+c0000000051097E41000000000000027B
+t1359576641
+s635
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/OnkwehonweTranslatorJune24_2012.m4v
+c00000000509764A100000000010C1DEC
+t1352098977
+s17571308
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/OnkwehonweTranslatorJune24_2012.mp4
+c0000000051096C500000000000846E14
+t1359572048
+s8678932
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/ViewController.h
+c00000000510AC427000000000000051D
+t1359660071
+s1309
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/ViewController.m
+c00000000510AC6B9000000000000194E
+t1359660729
+s6478
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/avengers.jpg
+c00000000510078DB00000000000018D2
+t1358985435
+s6354
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/avengers.png
+c00000000510078DB00000000000018D2
+t1358985435
+s6354
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/captain-america.jpg
+c00000000510078C80000000000001EF9
+t1358985416
+s7929
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/captain-america.png
+c00000000510078C80000000000001EF9
+t1358985416
+s7929
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/cinemarc.png
+c00000000510078160000000000002A91
+t1358985238
+s10897
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/cineplex96x96.png
+c000000005100779B0000000000003710
+t1358985115
+s14096
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/en.lproj/InfoPlist.strings
+c00000000510706F3000000000000002D
+t1359415027
+s45
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/en.lproj/MainStoryboard.storyboard
+c00000000510AFC8A0000000000008688
+t1359674506
+s34440
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images
+c00000000510AB14A0000000000000264
+t1359655242
+s612
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/Argo.png
+c0000000050A50186000000000000299D
+t1352991110
+s10653
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/CA.png
+c0000000050A5018600000000000032B6
+t1352991110
+s12982
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/avengers.png
+c00000000510078DB00000000000018D2
+t1358985435
+s6354
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/captain-america.png
+c00000000510078C80000000000001EF9
+t1358985416
+s7929
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/cinemarc.png
+c00000000510078160000000000002A91
+t1358985238
+s10897
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/cineplex96x96.png
+c000000005100779B0000000000003710
+t1358985115
+s14096
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/imax.png
+c000000005100782B00000000000013F9
+t1358985259
+s5113
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/play.png
+c000000004B6A6BF500000000000000C1
+t1265265653
+s193
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/rock%20on%20beach.jpg
+c0000000045CFD9F800000000000C1491
+t1171249656
+s791697
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/skyfall.png
+c00000000510079120000000000001982
+t1358985490
+s6530
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/stargate.png
+c00000000510078F900000000000027BF
+t1358985465
+s10175
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/stop.png
+c000000004B6A6BF300000000000000B0
+t1265265651
+s176
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/imax.png
+c000000005100782B00000000000013F9
+t1358985259
+s5113
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/main.m
+c00000000510706F30000000000000157
+t1359415027
+s343
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/mdf2_project4_final-Prefix.pch
+c00000000510706F3000000000000014F
+t1359415027
+s335
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/movies
+c00000000510AB14600000000000000AA
+t1359655238
+s170
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/movies/trailer1.mp4
+c0000000051096C500000000000846E14
+t1359572048
+s8678932
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/play.png
+c000000004B6A6BF500000000000000C1
+t1265265653
+s193
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/rock%20on%20beach.jpg
+c0000000045CFD9F800000000000C1491
+t1171249656
+s791697
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/skyfall.png
+c00000000510079120000000000001982
+t1358985490
+s6530
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/stargate.jpg
+c00000000510078F900000000000027BF
+t1358985465
+s10175
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/stargate.png
+c00000000510078F900000000000027BF
+t1358985465
+s10175
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/stop.png
+c000000004B6A6BF300000000000000B0
+t1265265651
+s176
+
+N/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/trailer1.mp4
+c0000000051096C500000000000846E14
+t1359572048
+s8678932
+
+Nmdf2_project4_final/mdf2_project4_final-Info.plist
+c00000000510AC86C000000000000055F
+t1359661164
+s1375
+
+CBuild AST from "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/AppDelegate.m"
+r0
+
+CBuild AST from "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/DetailViewController.m"
+r0
+
+CBuild AST from "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/MovieData.m"
+r0
+
+CBuild AST from "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/MovieTableCell.m"
+r0
+
+CBuild AST from "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/ViewController.m"
+r0
+
+CBuild AST from "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies72a3f81654d1b741^64031d1754d1b741^---0#1#0#--18"Check dependencies36"6B14A680-8BCF-47FD-B68F-9897EBC401FB-
+
+CCompileC DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/AppDelegate.o "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s399594519.453797
+e399594519.596559
+r1
+xCompileC
+xDerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/AppDelegate.o
+x/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/AppDelegate.mb951741754d1b741^34b9981754d1b741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/AppDelegate.m0000000000000000^4775"CompileC DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/AppDelegate.o mdf2_project4_final/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-generated-files.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-own-target-headers.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-all-target-headers.hmap" -iquote "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-project-headers.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/DerivedSources/i386" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/DerivedSources" "-F/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator" -include "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/PrecompiledHeaders/mdf2_project4_final-Prefix-gsaqhwpkwsvhjmeztlmmagaznxuv/mdf2_project4_final-Prefix.pch" -MMD -MT dependencies -MF "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/AppDelegate.d" --serialize-diagnostics "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/AppDelegate.dia" -c "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/AppDelegate.m" -o "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/AppDelegate.o"36"5FCEFE21-2DDC-4E90-AD60-47E41727872F-
+
+CCompileC DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/DetailViewController.o "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/DetailViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s399594519.453845
+e399594519.656022
+r1
+xCompileC
+xDerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/DetailViewController.o
+x/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/DetailViewController.m1d5a741754d1b741^35f0a71754d1b741^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/DetailViewController.m0000000000000000^4829"CompileC DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/DetailViewController.o mdf2_project4_final/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-generated-files.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-own-target-headers.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-all-target-headers.hmap" -iquote "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-project-headers.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/DerivedSources/i386" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/DerivedSources" "-F/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator" -include "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/PrecompiledHeaders/mdf2_project4_final-Prefix-gsaqhwpkwsvhjmeztlmmagaznxuv/mdf2_project4_final-Prefix.pch" -MMD -MT dependencies -MF "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/DetailViewController.d" --serialize-diagnostics "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/DetailViewController.dia" -c "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/DetailViewController.m" -o "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/DetailViewController.o"36"FE594BFF-9A6D-47EA-8B8D-0B9C935238E9-
+
+CCompileC DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/MovieData.o "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/MovieData.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s399594519.453826
+e399594519.581472
+r1
+xCompileC
+xDerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/MovieData.o
+x/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/MovieData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/MovieData.mc24f741754d1b741^f9d9941754d1b741^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/MovieData.m0000000000000000^4763"CompileC DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/MovieData.o mdf2_project4_final/MovieData.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-generated-files.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-own-target-headers.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-all-target-headers.hmap" -iquote "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-project-headers.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/DerivedSources/i386" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/DerivedSources" "-F/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator" -include "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/PrecompiledHeaders/mdf2_project4_final-Prefix-gsaqhwpkwsvhjmeztlmmagaznxuv/mdf2_project4_final-Prefix.pch" -MMD -MT dependencies -MF "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/MovieData.d" --serialize-diagnostics "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/MovieData.dia" -c "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/MovieData.m" -o "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/MovieData.o"36"19EA0642-86F6-4FC5-8333-F522F4EEAC83-
+
+CCompileC DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/MovieTableCell.o "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/MovieTableCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s399594519.453805
+e399594519.642498
+r1
+xCompileC
+xDerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/MovieTableCell.o
+x/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/MovieTableCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/MovieTableCell.m3255741754d1b741^b878a41754d1b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/MovieTableCell.m0000000000000000^4793"CompileC DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/MovieTableCell.o mdf2_project4_final/MovieTableCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-generated-files.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-own-target-headers.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-all-target-headers.hmap" -iquote "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-project-headers.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/DerivedSources/i386" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/DerivedSources" "-F/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator" -include "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/PrecompiledHeaders/mdf2_project4_final-Prefix-gsaqhwpkwsvhjmeztlmmagaznxuv/mdf2_project4_final-Prefix.pch" -MMD -MT dependencies -MF "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/MovieTableCell.d" --serialize-diagnostics "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/MovieTableCell.dia" -c "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/MovieTableCell.m" -o "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/MovieTableCell.o"36"4C299BC7-CAFC-4A8F-AE24-6647761BC3FB-
+
+CCompileC DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/ViewController.o "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s399594519.453815
+e399594519.673724
+r1
+xCompileC
+xDerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/ViewController.o
+x/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/ViewController.m7156741754d1b741^b878ac1754d1b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/ViewController.m0000000000000000^4793"CompileC DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/ViewController.o mdf2_project4_final/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-generated-files.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-own-target-headers.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-all-target-headers.hmap" -iquote "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-project-headers.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/DerivedSources/i386" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/DerivedSources" "-F/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator" -include "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/PrecompiledHeaders/mdf2_project4_final-Prefix-gsaqhwpkwsvhjmeztlmmagaznxuv/mdf2_project4_final-Prefix.pch" -MMD -MT dependencies -MF "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/ViewController.d" --serialize-diagnostics "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/ViewController.dia" -c "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/ViewController.m" -o "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/ViewController.o"36"566860E3-9F4C-481F-BD52-362B72C816A1-
+
+CCompileC DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/main.o "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s399594519.453835
+e399594519.582906
+r1
+xCompileC
+xDerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/main.o
+x/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/main.m7a54741754d1b741^f437951754d1b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/main.m0000000000000000^4733"CompileC DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/main.o mdf2_project4_final/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-generated-files.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-own-target-headers.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-all-target-headers.hmap" -iquote "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-project-headers.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/DerivedSources/i386" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/DerivedSources" "-F/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator" -include "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/PrecompiledHeaders/mdf2_project4_final-Prefix-gsaqhwpkwsvhjmeztlmmagaznxuv/mdf2_project4_final-Prefix.pch" -MMD -MT dependencies -MF "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/main.dia" -c "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/main.m" -o "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/main.o"36"7231F26F-7AEE-4A49-8D51-04A4C2979958-
+
+CCompileStoryboard "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/en.lproj/MainStoryboard.storyboard"
+s382858935.827266
+e382858941.548065
+r1
+xCompileStoryboard
+x/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/en.lproj/MainStoryboard.storyboard
+o2013-02-18 00:42:16.333 Interface Builder Cocoa Touch Tool[1624:f07] CFPreferences: user home directory at file://localhost/Users/monigarr/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"CompileStoryboard mdf2_project4_final/en.lproj/MainStoryboard.storyboard5bebd3b7f6d1b641^ba4d8cbdf6d1b641^-240"2013-02-18 00:42:16.333 Interface Builder Cocoa Touch Tool[1624:f07] CFPreferences: user home directory at file://localhost/Users/monigarr/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/en.lproj/MainStoryboard.storyboard0000000000000000^1117"CompileStoryboard mdf2_project4_final/en.lproj/MainStoryboard.storyboard    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/en.lproj/MainStoryboard.storyboardc" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/en.lproj/MainStoryboard.storyboard" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"C2350976-AAE8-4243-9E1E-7A1CED08FCD9-
+
+CCopyPlistFile "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/movies.plist" mdf2_project4_final/../movies.plist
+s381353659.552674
+e381353659.558787
+r1
+xCopyPlistFile
+x/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/movies.plist
+xmdf2_project4_final/../movies.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy mdf2_project4_final/../movies.plist73f78dbbfebab641^bc088fbbfebab641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/../movies.plist0000000000000000^681"CopyPlistFile DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/movies.plist mdf2_project4_final/../movies.plist    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyPlist --convert binary1 --outdir "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app" -- mdf2_project4_final/../movies.plist36"F454B11E-2A5C-4A09-A7DE-A9EE1C9574CB-
+
+CCopyStringsFile "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/en.lproj/InfoPlist.strings" mdf2_project4_final/en.lproj/InfoPlist.strings
+s381110731.629604
+e381110731.635180
+r1
+xCopyStringsFile
+x/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/en.lproj/InfoPlist.strings
+xmdf2_project4_final/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy mdf2_project4_final/en.lproj/InfoPlist.strings6b47a1cb49b7b641^9d9ba2cb49b7b641^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/en.lproj/InfoPlist.strings0000000000000000^769"CopyStringsFile DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/en.lproj/InfoPlist.strings mdf2_project4_final/en.lproj/InfoPlist.strings    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/en.lproj" -- mdf2_project4_final/en.lproj/InfoPlist.strings36"429604D6-C057-416E-AD87-2685771F7B4D-
+
+CCpResource mdf2_project4_final/Argo.m4v DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Argo.m4v
+s381111054.346628
+e381111056.016263
+r1
+xCpResource
+xmdf2_project4_final/Argo.m4v
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Argo.m4v
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Argo.m4v46d0580e4bb7b641^b22c04104bb7b641^---0#0#0#-19%DVTDocumentLocation2@188"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Argo.m4v000000000080d041^791"CpResource mdf2_project4_final/Argo.m4v DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Argo.m4v    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/Argo.m4v" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"7636057C-0719-4E33-8A7E-AE5CA8E4222B-
+
+CCpResource mdf2_project4_final/Argo.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Argo.png
+s381111054.346621
+e381111054.350967
+r1
+xCpResource
+xmdf2_project4_final/Argo.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Argo.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Argo.pngabd0580e4bb7b641^d3d9590e4bb7b641^---0#0#0#-19%DVTDocumentLocation2@188"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Argo.png000000000080d041^791"CpResource mdf2_project4_final/Argo.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Argo.png    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/Argo.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"6B41D6F1-A20B-4733-AC72-51771FDC0916-
+
+CCpResource mdf2_project4_final/CA.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/CA.png
+s381111054.346667
+e381111054.351101
+r1
+xCpResource
+xmdf2_project4_final/CA.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/CA.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/CA.png07cf580e4bb7b641^b4e4590e4bb7b641^---0#0#0#-19%DVTDocumentLocation2@186"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/CA.png000000000080d041^785"CpResource mdf2_project4_final/CA.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/CA.png    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/CA.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"F445F8DA-8CEF-4115-B280-F69FA51E78DA-
+
+CCpResource mdf2_project4_final/Default-568h@2x.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Default-568h@2x.png
+s381110731.629648
+e381110731.633894
+r1
+xCpResource
+xmdf2_project4_final/Default-568h@2x.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Default-568h@2x.png0b46a1cb49b7b641^ae46a2cb49b7b641^---0#0#0#-19%DVTDocumentLocation2@199"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Default-568h@2x.png000000000080d041^828"CpResource "mdf2_project4_final/Default-568h@2x.png" "DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Default-568h@2x.png"    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/Default-568h@2x.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"F88C8C99-E7F8-4823-A924-B48326EB5A34-
+
+CCpResource mdf2_project4_final/Default.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Default.png
+s381110731.629567
+e381110731.632720
+r1
+xCpResource
+xmdf2_project4_final/Default.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Default.png3e42a1cb49b7b641^adf9a1cb49b7b641^---0#0#0#-19%DVTDocumentLocation2@191"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Default.png000000000080d041^800"CpResource mdf2_project4_final/Default.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Default.png    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/Default.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"2D08A758-7E88-4396-8A62-DC0D38FCA77A-
+
+CCpResource mdf2_project4_final/Default@2x.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Default@2x.png
+s381110731.629353
+e381110731.631734
+r1
+xCpResource
+xmdf2_project4_final/Default@2x.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Default@2x.pngc636a1cb49b7b641^feb8a1cb49b7b641^---0#0#0#-19%DVTDocumentLocation2@194"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Default@2x.png000000000080d041^813"CpResource "mdf2_project4_final/Default@2x.png" "DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Default@2x.png"    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/Default@2x.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"0476AE82-7691-4C2F-A01A-1D7D21771CFD-
+
+CCpResource mdf2_project4_final/OnkwehonweTranslatorJune24_2012.m4v DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/OnkwehonweTranslatorJune24_2012.m4v
+s381110900.498163
+e381110900.933399
+r1
+xCpResource
+xmdf2_project4_final/OnkwehonweTranslatorJune24_2012.m4v
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/OnkwehonweTranslatorJune24_2012.m4v
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/OnkwehonweTranslatorJune24_2012.m4vfe9b7f744ab7b641^b6f6ee744ab7b641^---0#0#0#-19%DVTDocumentLocation2@215"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/OnkwehonweTranslatorJune24_2012.m4v000000000080d041^872"CpResource mdf2_project4_final/OnkwehonweTranslatorJune24_2012.m4v DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/OnkwehonweTranslatorJune24_2012.m4v    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/OnkwehonweTranslatorJune24_2012.m4v" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"D93CA28C-8123-402A-8CE6-08F08BC4DF0E-
+
+CCpResource mdf2_project4_final/OnkwehonweTranslatorJune24_2012.mp4 DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/OnkwehonweTranslatorJune24_2012.mp4
+s381265038.467415
+e381265038.479812
+r1
+xCpResource
+xmdf2_project4_final/OnkwehonweTranslatorJune24_2012.mp4
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/OnkwehonweTranslatorJune24_2012.mp4
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/OnkwehonweTranslatorJune24_2012.mp45ebc778ea4b9b641^fed67a8ea4b9b641^---0#0#0#-19%DVTDocumentLocation2@215"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/OnkwehonweTranslatorJune24_2012.mp4000000000080d041^872"CpResource mdf2_project4_final/OnkwehonweTranslatorJune24_2012.mp4 DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/OnkwehonweTranslatorJune24_2012.mp4    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/OnkwehonweTranslatorJune24_2012.mp4" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"029E3A11-E38B-44EA-B310-7C986D63F8E1-
+
+CCpResource mdf2_project4_final/avengers.jpg DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/avengers.jpg
+s381110900.496871
+e381110900.499062
+r1
+xCpResource
+xmdf2_project4_final/avengers.jpg
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/avengers.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/avengers.jpgdc467f744ab7b641^afee80744ab7b641^---0#0#0#-19%DVTDocumentLocation2@192"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/avengers.jpg000000000080d041^803"CpResource mdf2_project4_final/avengers.jpg DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/avengers.jpg    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/avengers.jpg" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"34263266-3C58-4F66-BC3C-7B414DF0E178-
+
+CCpResource mdf2_project4_final/avengers.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/avengers.png
+s381112435.823919
+e381112435.827187
+r1
+xCpResource
+xmdf2_project4_final/avengers.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/avengers.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/avengers.png2600d37350b7b641^fcc2d37350b7b641^---0#0#0#-19%DVTDocumentLocation2@192"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/avengers.png000000000080d041^803"CpResource mdf2_project4_final/avengers.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/avengers.png    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/avengers.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"31C2DFE0-053E-4F29-8062-97226774F68A-
+
+CCpResource mdf2_project4_final/captain-america.jpg DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/captain-america.jpg
+s381110900.496924
+e381110900.499981
+r1
+xCpResource
+xmdf2_project4_final/captain-america.jpg
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/captain-america.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/captain-america.jpge4487f744ab7b641^1bf180744ab7b641^---0#0#0#-19%DVTDocumentLocation2@199"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/captain-america.jpg000000000080d041^824"CpResource mdf2_project4_final/captain-america.jpg DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/captain-america.jpg    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/captain-america.jpg" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"6B9C5750-C536-441F-99E9-39AF6583EC71-
+
+CCpResource mdf2_project4_final/captain-america.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/captain-america.png
+s381112435.823922
+e381112435.825868
+r1
+xCpResource
+xmdf2_project4_final/captain-america.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/captain-america.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/captain-america.pngc2fbd27350b7b641^276cd37350b7b641^---0#0#0#-19%DVTDocumentLocation2@199"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/captain-america.png000000000080d041^824"CpResource mdf2_project4_final/captain-america.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/captain-america.png    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/captain-america.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"126294F1-CE50-49F3-9BB2-DF5B68B74E45-
+
+CCpResource mdf2_project4_final/cinemarc.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/cinemarc.png
+s381110900.498121
+e381110900.502216
+r1
+xCpResource
+xmdf2_project4_final/cinemarc.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/cinemarc.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/cinemarc.png96987f744ab7b641^d8f480744ab7b641^---0#0#0#-19%DVTDocumentLocation2@192"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/cinemarc.png000000000080d041^803"CpResource mdf2_project4_final/cinemarc.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/cinemarc.png    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/cinemarc.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"BEE4C392-6FED-4B7D-A08F-72C703691FC9-
+
+CCpResource mdf2_project4_final/cineplex96x96.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/cineplex96x96.png
+s381110900.498126
+e381110900.503380
+r1
+xCpResource
+xmdf2_project4_final/cineplex96x96.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/cineplex96x96.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/cineplex96x96.png4e997f744ab7b641^9df680744ab7b641^---0#0#0#-19%DVTDocumentLocation2@197"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/cineplex96x96.png000000000080d041^818"CpResource mdf2_project4_final/cineplex96x96.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/cineplex96x96.png    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/cineplex96x96.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"E1146621-5A8E-484F-98FC-5CF54DA84A7B-
+
+CCpResource mdf2_project4_final/images DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/images
+s381348484.061520
+e381348484.068336
+r1
+xCpResource
+xmdf2_project4_final/images
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/images
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/imagese9d60f84eabab641^897e1184eabab641^---0#0#0#-19%DVTDocumentLocation2@186"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/images000000000080d041^785"CpResource mdf2_project4_final/images DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/images    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"D2F32031-58F2-44D9-8F55-47E77893B4D5-
+
+CCpResource mdf2_project4_final/images/Argo.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Argo.png
+s381348074.481491
+e381348074.489103
+r1
+xCpResource
+xmdf2_project4_final/images/Argo.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Argo.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Argo.png834f7beae8bab641^54357deae8bab641^---0#0#0#-19%DVTDocumentLocation2@188"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Argo.png0000000000000000^805"CpResource mdf2_project4_final/images/Argo.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Argo.png    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/Argo.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"A63E6D7B-6541-4EAD-A768-FD71E59051E7-
+
+CCpResource mdf2_project4_final/images/CA.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/CA.png
+s381348074.481488
+e381348074.490055
+r1
+xCpResource
+xmdf2_project4_final/images/CA.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/CA.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/CA.pngb54f7beae8bab641^60747deae8bab641^---0#0#0#-19%DVTDocumentLocation2@186"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/CA.png0000000000000000^799"CpResource mdf2_project4_final/images/CA.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/CA.png    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/CA.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"2B3416EE-A54B-4B45-8FCF-BA4B2901DFBD-
+
+CCpResource mdf2_project4_final/images/avengers.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/avengers.png
+s381348074.484734
+e381348074.491216
+r1
+xCpResource
+xmdf2_project4_final/images/avengers.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/avengers.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/avengers.pngec2e7ceae8bab641^66c07deae8bab641^---0#0#0#-19%DVTDocumentLocation2@192"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/avengers.png0000000000000000^817"CpResource mdf2_project4_final/images/avengers.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/avengers.png    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/avengers.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"30317F2D-579D-418D-B187-5FBAA6F21D9B-
+
+CCpResource mdf2_project4_final/images/captain-america.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/captain-america.png
+s381348074.484739
+e381348074.492383
+r1
+xCpResource
+xmdf2_project4_final/images/captain-america.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/captain-america.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/captain-america.png832f7ceae8bab641^4a0c7eeae8bab641^---0#0#0#-19%DVTDocumentLocation2@199"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/captain-america.png0000000000000000^838"CpResource mdf2_project4_final/images/captain-america.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/captain-america.png    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/captain-america.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"E37DADE5-CD74-4B01-9F69-0F5B2D182D22-
+
+CCpResource mdf2_project4_final/images/cinemarc.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/cinemarc.png
+s381348074.478021
+e381348074.480258
+r1
+xCpResource
+xmdf2_project4_final/images/cinemarc.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/cinemarc.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/cinemarc.pngde717aeae8bab641^95f27aeae8bab641^---0#0#0#-19%DVTDocumentLocation2@192"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/cinemarc.png0000000000000000^817"CpResource mdf2_project4_final/images/cinemarc.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/cinemarc.png    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/cinemarc.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"B28A5DD6-0A1C-4D18-9EAC-7DC790B9B977-
+
+CCpResource mdf2_project4_final/images/cineplex96x96.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/cineplex96x96.png
+s381348074.478101
+e381348074.481117
+r1
+xCpResource
+xmdf2_project4_final/images/cineplex96x96.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/cineplex96x96.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/cineplex96x96.pngea767aeae8bab641^7c2a7beae8bab641^---0#0#0#-19%DVTDocumentLocation2@197"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/cineplex96x96.png0000000000000000^832"CpResource mdf2_project4_final/images/cineplex96x96.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/cineplex96x96.png    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/cineplex96x96.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"080DAA2C-9E67-4B89-AE50-3C35FF3A1803-
+
+CCpResource mdf2_project4_final/images/imax.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/imax.png
+s381348074.479322
+e381348074.484601
+r1
+xCpResource
+xmdf2_project4_final/images/imax.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/imax.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/imax.pngdac77aeae8bab641^e00e7ceae8bab641^---0#0#0#-19%DVTDocumentLocation2@188"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/imax.png0000000000000000^805"CpResource mdf2_project4_final/images/imax.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/imax.png    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/imax.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"61EF1DDD-F704-422C-A557-6C6BE624B36E-
+
+CCpResource mdf2_project4_final/images/play.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/play.png
+s381348074.479328
+e381348074.483564
+r1
+xCpResource
+xmdf2_project4_final/images/play.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/play.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/play.png7ac67aeae8bab641^75ca7beae8bab641^---0#0#0#-19%DVTDocumentLocation2@188"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/play.png0000000000000000^805"CpResource mdf2_project4_final/images/play.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/play.png    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/play.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"797695E5-DD62-4B74-9679-ACF631205FE9-
+
+CCpResource mdf2_project4_final/images/rock%20on%20beach.jpg DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/rock%20on%20beach.jpg
+s381348074.479384
+e381348074.488810
+r1
+xCpResource
+xmdf2_project4_final/images/rock%20on%20beach.jpg
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/rock%20on%20beach.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/rock%20on%20beach.jpgcdce7aeae8bab641^85227deae8bab641^---0#0#0#-19%DVTDocumentLocation2@205"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/rock%2520on%2520beach.jpg0000000000000000^848"CpResource "mdf2_project4_final/images/rock%20on%20beach.jpg" "DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/rock%20on%20beach.jpg"    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/rock%20on%20beach.jpg" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"F43E1992-7D3E-4CC4-B035-37E5C53F791A-
+
+CCpResource mdf2_project4_final/images/skyfall.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/skyfall.png
+s381348074.479368
+e381348074.485671
+r1
+xCpResource
+xmdf2_project4_final/images/skyfall.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/skyfall.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/skyfall.png2ac97aeae8bab641^65557ceae8bab641^---0#0#0#-19%DVTDocumentLocation2@191"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/skyfall.png0000000000000000^814"CpResource mdf2_project4_final/images/skyfall.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/skyfall.png    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/skyfall.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"D0D604FA-43DB-4D92-9D42-1C698C5E5E38-
+
+CCpResource mdf2_project4_final/images/stargate.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stargate.png
+s381348074.486867
+e381348074.493555
+r1
+xCpResource
+xmdf2_project4_final/images/stargate.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stargate.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stargate.png70b37ceae8bab641^3a597eeae8bab641^---0#0#0#-19%DVTDocumentLocation2@192"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stargate.png0000000000000000^817"CpResource mdf2_project4_final/images/stargate.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stargate.png    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/stargate.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"D6E69FF3-94D1-4819-BFCD-1BCF764BA05C-
+
+CCpResource mdf2_project4_final/images/stop.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stop.png
+s381348074.479391
+e381348074.486781
+r1
+xCpResource
+xmdf2_project4_final/images/stop.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stop.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stop.png81cc7aeae8bab641^c79b7ceae8bab641^---0#0#0#-19%DVTDocumentLocation2@188"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stop.png0000000000000000^805"CpResource mdf2_project4_final/images/stop.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stop.png    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/images/stop.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"19F5E033-EF64-4898-9203-C0336A513849-
+
+CCpResource mdf2_project4_final/imax.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/imax.png
+s381110900.498132
+e381110900.501065
+r1
+xCpResource
+xmdf2_project4_final/imax.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/imax.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/imax.png5b967f744ab7b641^02f380744ab7b641^---0#0#0#-19%DVTDocumentLocation2@188"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/imax.png000000000080d041^791"CpResource mdf2_project4_final/imax.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/imax.png    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/imax.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"1767EDCF-A138-4C68-B59F-259D22A58FAD-
+
+CCpResource mdf2_project4_final/movies DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/movies
+s381348484.061516
+e381348484.953929
+r1
+xCpResource
+xmdf2_project4_final/movies
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/movies
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/moviese9d60f84eabab641^fc36f484eabab641^---0#0#0#-19%DVTDocumentLocation2@186"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/movies000000000080d041^785"CpResource mdf2_project4_final/movies DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/movies    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/movies" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"456C567C-2915-49BB-B542-7456C76EFA87-
+
+CCpResource mdf2_project4_final/movies/trailer1.mp4 DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/trailer1.mp4
+s381348074.487993
+e381348074.502530
+r1
+xCpResource
+xmdf2_project4_final/movies/trailer1.mp4
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/trailer1.mp4
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/trailer1.mp416fa7ceae8bab641^dfa580eae8bab641^---0#0#0#-19%DVTDocumentLocation2@192"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/trailer1.mp40000000000000000^817"CpResource mdf2_project4_final/movies/trailer1.mp4 DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/trailer1.mp4    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/movies/trailer1.mp4" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"F5F948DF-8EC9-4B60-B074-7A1FA1A9DB3C-
+
+CCpResource mdf2_project4_final/play.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/play.png
+s381110900.498153
+e381110900.505458
+r1
+xCpResource
+xmdf2_project4_final/play.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/play.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/play.png139b7f744ab7b641^c36581744ab7b641^---0#0#0#-19%DVTDocumentLocation2@188"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/play.png000000000080d041^791"CpResource mdf2_project4_final/play.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/play.png    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/play.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"D3973DE1-2971-41F5-A61D-683FD5BEB1DA-
+
+CCpResource mdf2_project4_final/rock%20on%20beach.jpg DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/rock%20on%20beach.jpg
+s381110900.498167
+e381110900.553610
+r1
+xCpResource
+xmdf2_project4_final/rock%20on%20beach.jpg
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/rock%20on%20beach.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/rock%20on%20beach.jpg399a7f744ab7b641^c7b98d744ab7b641^---0#0#0#-19%DVTDocumentLocation2@205"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/rock%2520on%2520beach.jpg000000000080d041^834"CpResource "mdf2_project4_final/rock%20on%20beach.jpg" "DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/rock%20on%20beach.jpg"    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/rock%20on%20beach.jpg" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"49D225CD-5285-4B52-BF4E-048942307349-
+
+CCpResource mdf2_project4_final/skyfall.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/skyfall.png
+s381110900.500230
+e381110900.540578
+r1
+xCpResource
+xmdf2_project4_final/skyfall.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/skyfall.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/skyfall.pngdf1a80744ab7b641^516b8a744ab7b641^---0#0#0#-19%DVTDocumentLocation2@191"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/skyfall.png000000000080d041^800"CpResource mdf2_project4_final/skyfall.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/skyfall.png    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/skyfall.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"62A1BF6D-8FF6-496F-BBE1-B41E1A5CBF1D-
+
+CCpResource mdf2_project4_final/stargate.jpg DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stargate.jpg
+s381110900.500236
+e381110900.540317
+r1
+xCpResource
+xmdf2_project4_final/stargate.jpg
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stargate.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stargate.jpgfc1b80744ab7b641^67628a744ab7b641^---0#0#0#-19%DVTDocumentLocation2@192"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stargate.jpg000000000080d041^803"CpResource mdf2_project4_final/stargate.jpg DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stargate.jpg    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/stargate.jpg" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"431F3F7E-932D-464C-80C5-2186B4830C27-
+
+CCpResource mdf2_project4_final/stargate.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stargate.png
+s381112435.823930
+e381112435.871247
+r1
+xCpResource
+xmdf2_project4_final/stargate.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stargate.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stargate.pngc901d37350b7b641^9609df7350b7b641^---0#0#0#-19%DVTDocumentLocation2@192"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stargate.png000000000080d041^803"CpResource mdf2_project4_final/stargate.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stargate.png    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/stargate.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"96CE83AB-D9A4-4778-878F-79DD5F99076B-
+
+CCpResource mdf2_project4_final/stop.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stop.png
+s381110900.502203
+e381110900.514206
+r1
+xCpResource
+xmdf2_project4_final/stop.png
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stop.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stop.png849b80744ab7b641^cfa283744ab7b641^---0#0#0#-19%DVTDocumentLocation2@188"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stop.png000000000080d041^791"CpResource mdf2_project4_final/stop.png DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/stop.png    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/stop.png" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"BEA055A7-B05D-4A5D-8D49-47145853AB4D-
+
+CCpResource mdf2_project4_final/trailer1.mp4 DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/trailer1.mp4
+s381271281.043906
+e381271281.053034
+r1
+xCpResource
+xmdf2_project4_final/trailer1.mp4
+xDerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/trailer1.mp4
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/trailer1.mp4124e0bf1bcb9b641^1c970df1bcb9b641^---0#0#0#-19%DVTDocumentLocation2@192"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/trailer1.mp4000000000080d041^803"CpResource mdf2_project4_final/trailer1.mp4 DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/trailer1.mp4    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/trailer1.mp4" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"1BE1398C-B17C-4801-B646-C5BBF2080AD6-
+
+CGenerateDSYMFile "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app.dSYM" "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/mdf2_project4_final"
+s399594519.714820
+e399594519.737204
+r1
+xGenerateDSYMFile
+x/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app.dSYM
+x/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/mdf2_project4_final
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection175"Generate /Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app.dSYM390fb71754d1b741^4ab8bc1754d1b741^---0#0#0#-19%DVTDocumentLocation2@185"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app.dSYM/0000000000000000^957"GenerateDSYMFile DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app.dSYM DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/mdf2_project4_final    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/mdf2_project4_final" -o "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app.dSYM"36"42CBE86C-B8EE-4E0B-9CC5-0078E502C136-
+
+CLd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/mdf2_project4_final" normal i386
+s399594519.680505
+e399594519.708321
+r1
+xLd
+x/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/mdf2_project4_final
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection186"Link /Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/mdf2_project4_final8049ae1754d1b741^5454b51754d1b741^---0#0#0#--1624"Ld DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/mdf2_project4_final normal i386    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk "-L/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator" "-F/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator" -filelist "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/Objects-normal/i386/mdf2_project4_final.LinkFileList" -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework MediaPlayer -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/mdf2_project4_final"36"E0569192-5EC1-45A0-BB44-4A57CE4DAB5E-
+
+CProcessInfoPlistFile "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Info.plist" mdf2_project4_final/mdf2_project4_final-Info.plist
+s399594519.123153
+e399594519.132713
+r1
+xProcessInfoPlistFile
+x/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Info.plist
+xmdf2_project4_final/mdf2_project4_final-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Process mdf2_project4_final/mdf2_project4_final-Info.plist8f33211754d1b741^5a10221754d1b741^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/mdf2_project4_final-Info.plist0000000000000000^953"ProcessInfoPlistFile DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Info.plist mdf2_project4_final/mdf2_project4_final-Info.plist    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility mdf2_project4_final/mdf2_project4_final-Info.plist -genpkginfo "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app/Info.plist"36"E8519EE8-82DB-438A-AE67-E47B05A8297E-
+
+CProcessPCH "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/PrecompiledHeaders/mdf2_project4_final-Prefix-fmfvbuysvxusbigmdsythsqkvoup/mdf2_project4_final-Prefix.pch.pth" mdf2_project4_final/mdf2_project4_final-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381110212.644959
+e381110212.961237
+r1
+xProcessPCH
+x/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/PrecompiledHeaders/mdf2_project4_final-Prefix-fmfvbuysvxusbigmdsythsqkvoup/mdf2_project4_final-Prefix.pch.pth
+xmdf2_project4_final/mdf2_project4_final-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Precompile mdf2_project4_final/mdf2_project4_final-Prefix.pch1538a5c447b7b641^ed11f6c447b7b641^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/mdf2_project4_final-Prefix.pch0000000000000000^4584"ProcessPCH DerivedData/mdf2_project4_final/Build/Intermediates/PrecompiledHeaders/mdf2_project4_final-Prefix-fmfvbuysvxusbigmdsythsqkvoup/mdf2_project4_final-Prefix.pch.pth mdf2_project4_final/mdf2_project4_final-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-generated-files.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-own-target-headers.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-all-target-headers.hmap" -iquote "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-project-headers.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/DerivedSources/i386" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/DerivedSources" "-F/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator" --serialize-diagnostics "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/PrecompiledHeaders/mdf2_project4_final-Prefix-fmfvbuysvxusbigmdsythsqkvoup/mdf2_project4_final-Prefix.pch.dia" -c "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/mdf2_project4_final-Prefix.pch" -o "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/PrecompiledHeaders/mdf2_project4_final-Prefix-fmfvbuysvxusbigmdsythsqkvoup/mdf2_project4_final-Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/PrecompiledHeaders/mdf2_project4_final-Prefix-fmfvbuysvxusbigmdsythsqkvoup/mdf2_project4_final-Prefix.pch.d"36"42D22A99-BB05-409D-B7BF-04D7B7AC42D6-
+
+CProcessPCH "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/PrecompiledHeaders/mdf2_project4_final-Prefix-gsaqhwpkwsvhjmeztlmmagaznxuv/mdf2_project4_final-Prefix.pch.pth" mdf2_project4_final/mdf2_project4_final-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s399594519.140771
+e399594519.446964
+r1
+xProcessPCH
+x/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/PrecompiledHeaders/mdf2_project4_final-Prefix-gsaqhwpkwsvhjmeztlmmagaznxuv/mdf2_project4_final-Prefix.pch.pth
+xmdf2_project4_final/mdf2_project4_final-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Precompile mdf2_project4_final/mdf2_project4_final-Prefix.pch7d25241754d1b741^516b721754d1b741^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/monigarr/Google%20Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/mdf2_project4_final-Prefix.pch0000000000000000^4584"ProcessPCH DerivedData/mdf2_project4_final/Build/Intermediates/PrecompiledHeaders/mdf2_project4_final-Prefix-gsaqhwpkwsvhjmeztlmmagaznxuv/mdf2_project4_final-Prefix.pch.pth mdf2_project4_final/mdf2_project4_final-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-generated-files.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-own-target-headers.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-all-target-headers.hmap" -iquote "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/mdf2_project4_final-project-headers.hmap" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/DerivedSources/i386" "-I/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/mdf2_project4_final.build/Debug-iphonesimulator/mdf2_project4_final.build/DerivedSources" "-F/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator" --serialize-diagnostics "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/PrecompiledHeaders/mdf2_project4_final-Prefix-gsaqhwpkwsvhjmeztlmmagaznxuv/mdf2_project4_final-Prefix.pch.dia" -c "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/mdf2_project4_final/mdf2_project4_final-Prefix.pch" -o "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/PrecompiledHeaders/mdf2_project4_final-Prefix-gsaqhwpkwsvhjmeztlmmagaznxuv/mdf2_project4_final-Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Intermediates/PrecompiledHeaders/mdf2_project4_final-Prefix-gsaqhwpkwsvhjmeztlmmagaznxuv/mdf2_project4_final-Prefix.pch.d"36"0BF25129-2136-4265-882A-84A7CA232941-
+
+CProcessPCH "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Index/PrecompiledHeaders/mdf2_project4_final-Prefix-gmtwhxgnkplkdaeftfncrkndnett_ast/mdf2_project4_final-Prefix.pch.pth" mdf2_project4_final/mdf2_project4_final-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Index/PrecompiledHeaders/mdf2_project4_final-Prefix-gptmiexswjdxfoccdgvkeokeeqwt_ast/mdf2_project4_final-Prefix.pch.pth" mdf2_project4_final/mdf2_project4_final-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"
+s399594519.753063
+e399594519.758548
+r1
+xTouch
+x/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection167"Touch /Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app9dd7c01754d1b741^8c2fc21754d1b741^---0#0#0#--558"Touch DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app    cd "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/monigarr/Google Drive/XCode/mdf2_project4/mdf2_project4_final/DerivedData/mdf2_project4_final/Build/Products/Debug-iphonesimulator/mdf2_project4_final.app"36"6DDB3083-78EB-48CD-9B65-BF518DE47006-
+

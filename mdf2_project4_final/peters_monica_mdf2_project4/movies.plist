@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>TheatersList</key>
+		<dict>
+			<key>Theater 0</key>
+			<dict>
+				<key>Movies</key>
+				<array>
+					<dict>
+						<key>trailer</key>
+						<string>trailer1</string>
+						<key>thumbnail</key>
+						<string>stargate</string>
+						<key>rating</key>
+						<string>R</string>
+						<key>showtimes</key>
+						<string>1pm, 3pm, 5pm, 10pm</string>
+						<key>title</key>
+						<string>Stargate</string>
+					</dict>
+					<dict>
+						<key>trailer</key>
+						<string>trailer1</string>
+						<key>thumbnail</key>
+						<string>avengers</string>
+						<key>rating</key>
+						<string>R</string>
+						<key>showtimes</key>
+						<string>1pm, 3pm, 5pm, 10pm</string>
+						<key>title</key>
+						<string>Avengers</string>
+					</dict>
+					<dict>
+						<key>trailer</key>
+						<string>trailer1</string>
+						<key>thumbnail</key>
+						<string>captain-america</string>
+						<key>rating</key>
+						<string>R</string>
+						<key>showtimes</key>
+						<string>1pm, 3pm, 5pm, 10pm</string>
+						<key>title</key>
+						<string>Captain America</string>
+					</dict>
+					<dict>
+						<key>trailer</key>
+						<string>trailer1</string>
+						<key>thumbnail</key>
+						<string>Argo</string>
+						<key>rating</key>
+						<string>R</string>
+						<key>showtimes</key>
+						<string>1pm, 3pm, 5pm, 10pm</string>
+						<key>title</key>
+						<string>Argo</string>
+					</dict>
+					<dict>
+						<key>trailer</key>
+						<string>trailer1</string>
+						<key>thumbnail</key>
+						<string>skyfall</string>
+						<key>rating</key>
+						<string>R</string>
+						<key>showtimes</key>
+						<string>1pm, 3pm, 5pm, 10pm</string>
+						<key>title</key>
+						<string>Skyfall</string>
+					</dict>
+				</array>
+				
+				<key>TheaterInfo</key>
+				<dict>
+					<key>theaterThumbnail</key>
+					<string>imax</string>
+					<key>theaterName</key>
+					<string>IMAX</string>
+					<key>address</key>
+					<string>1 River Road Akwesasne</string>
+				</dict>
+			</dict>
+			<key>Theater 1</key>
+			<dict>
+				<key>Movies</key>
+				<array>
+					<dict>
+						<key>trailer</key>
+						<string>trailer1</string>
+						<key>thumbnail</key>
+						<string>stargate</string>
+						<key>rating</key>
+						<string>R</string>
+						<key>showtimes</key>
+						<string>1pm, 3pm, 5pm, 10pm</string>
+						<key>title</key>
+						<string>Stargate</string>
+					</dict>
+					<dict>
+						<key>trailer</key>
+						<string>trailer1</string>
+						<key>thumbnail</key>
+						<string>avengers</string>
+						<key>rating</key>
+						<string>R</string>
+						<key>showtimes</key>
+						<string>1pm, 3pm, 5pm, 10pm</string>
+						<key>title</key>
+						<string>Avengers</string>
+					</dict>
+					<dict>
+						<key>trailer</key>
+						<string>trailer1</string>
+						<key>thumbnail</key>
+						<string>captain-america</string>
+						<key>rating</key>
+						<string>R</string>
+						<key>showtimes</key>
+						<string>1pm, 3pm, 5pm, 10pm</string>
+						<key>title</key>
+						<string>Captain America</string>
+					</dict>
+					<dict>
+						<key>trailer</key>
+						<string>trailer1</string>
+						<key>thumbnail</key>
+						<string>Argo</string>
+						<key>rating</key>
+						<string>R</string>
+						<key>showtimes</key>
+						<string>1pm, 3pm, 5pm, 10pm</string>
+						<key>title</key>
+						<string>Argo</string>
+					</dict>
+					<dict>
+						<key>trailer</key>
+						<string>trailer1</string>
+						<key>thumbnail</key>
+						<string>skyfall</string>
+						<key>rating</key>
+						<string>R</string>
+						<key>showtimes</key>
+						<string>1pm, 3pm, 5pm, 10pm</string>
+						<key>title</key>
+						<string>Skyfall</string>
+					</dict>
+				</array>
+				<key>TheaterInfo</key>
+				<dict>
+					<key>theaterThumbnail</key>
+					<string>cinemarc</string>
+					<key>theaterName</key>
+					<string>Cinemarc Akwesasne</string>
+					<key>address</key>
+					<string>7 River Road</string>
+				</dict>
+			</dict>
+			<key>Theater 2</key>
+			<dict>
+				<key>Movies</key>
+				<array>
+					<dict>
+						<key>trailer</key>
+						<string>trailer1</string>
+						<key>thumbnail</key>
+						<string>stargate</string>
+						<key>rating</key>
+						<string>R</string>
+						<key>showtimes</key>
+						<string>1pm, 3pm, 5pm, 10pm</string>
+						<key>title</key>
+						<string>Stargate</string>
+					</dict>
+					<dict>
+						<key>trailer</key>
+						<string>trailer1</string>
+						<key>thumbnail</key>
+						<string>avengers</string>
+						<key>rating</key>
+						<string>R</string>
+						<key>showtimes</key>
+						<string>1pm, 3pm, 5pm, 10pm</string>
+						<key>title</key>
+						<string>Avengers</string>
+					</dict>
+					<dict>
+						<key>trailer</key>
+						<string>trailer1</string>
+						<key>thumbnail</key>
+						<string>captain-america</string>
+						<key>rating</key>
+						<string>R</string>
+						<key>showtimes</key>
+						<string>1pm, 3pm, 5pm, 10pm</string>
+						<key>title</key>
+						<string>Captain America</string>
+					</dict>
+					<dict>
+						<key>trailer</key>
+						<string>trailer1</string>
+						<key>thumbnail</key>
+						<string>Argo</string>
+						<key>rating</key>
+						<string>R</string>
+						<key>showtimes</key>
+						<string>1pm, 3pm, 5pm, 10pm</string>
+						<key>title</key>
+						<string>Argo</string>
+					</dict>
+					<dict>
+						<key>trailer</key>
+						<string>trailer1</string>
+						<key>thumbnail</key>
+						<string>skyfall</string>
+						<key>rating</key>
+						<string>R</string>
+						<key>showtimes</key>
+						<string>1pm, 3pm, 5pm, 10pm</string>
+						<key>title</key>
+						<string>Skyfall</string>
+					</dict>
+				</array>
+				<key>TheaterInfo</key>
+				<dict>
+					<key>theaterThumbnail</key>
+					<string>cineplex96x96</string>
+					<key>theaterName</key>
+					<string>Cineplex Akwesasne</string>
+					<key>address</key>
+					<string>19 River road</string>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+</plist>
+
